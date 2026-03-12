@@ -223,7 +223,7 @@ Gemini Flash LLM generates responses using retrieved context.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/OmniDoc-RAG-Engine.git
+git clone https://github.com/AyushAI/Atlas-RAG-Document-Intelligence.git
 cd OmniDoc-RAG-Engine
 ```
 
